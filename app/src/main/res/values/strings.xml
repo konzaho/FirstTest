@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BookMaster Generale</string>
+
+    <string name="textview">Search For Books:</string>
+    <string name="action_settings">Settings</string>
+    <string name="button">Search</string>
+    <string name="activity_details">Book Details</string>
+</resources>
